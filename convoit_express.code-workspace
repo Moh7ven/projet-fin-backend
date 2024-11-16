@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../NaNConnect/NaNConnect-API"
+    },
+    {
+      "path": "../../../Master-UICi_2/JAVASCRIPT"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "convoit_express"
+  }
+}
